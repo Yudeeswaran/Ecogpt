@@ -1,0 +1,1206 @@
+{
+    "energy_saving_tips": [
+        {
+            "category": "Classrooms",
+            "tip": "Turn off lights and fans when leaving.",
+            "impact_score": 15,
+            "id": 95
+        },
+        {
+            "category": "Classrooms",
+            "tip": "Use projectors only when necessary.",
+            "impact_score": 10,
+            "id": 2
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Shut down computers after use instead of leaving them on standby.",
+            "impact_score": 18,
+            "id": 99
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Enable power-saving mode on lab computers.",
+            "impact_score": 12,
+            "id": 90
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Switch off ACs and fans when not in the room.",
+            "impact_score": 20,
+            "id": 92
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Use natural ventilation instead of air conditioning.",
+            "impact_score": 15,
+            "id": 100
+        },
+        {
+            "category": "Library",
+            "tip": "Use reading lamps instead of full-room lighting.",
+            "impact_score": 12,
+            "id": 7
+        },
+        {
+            "category": "Library",
+            "tip": "Avoid overcharging laptops and phones.",
+            "impact_score": 10,
+            "id": 96
+        },
+        {
+            "category": "Canteen",
+            "tip": "Turn off electric stoves when not in use.",
+            "impact_score": 18,
+            "id": 89
+        },
+        {
+            "category": "Canteen",
+            "tip": "Reduce single-use plastic by carrying reusable bottles.",
+            "impact_score": 12,
+            "id": 87
+        },
+        {
+            "category": "Sports Complex",
+            "tip": "Use solar-powered water heaters in locker rooms.",
+            "impact_score": 25,
+            "id": 88
+        },
+        {
+            "category": "Parking Lot",
+            "tip": "Use motion-sensor LED lights at night.",
+            "impact_score": 22,
+            "id": 63
+        },
+        {
+            "category": "Auditoriums",
+            "tip": "Schedule events during daylight to minimize artificial lighting.",
+            "impact_score": 20,
+            "id": 72
+        },
+        {
+            "category": "Labs",
+            "tip": "Turn off unused lab equipment.",
+            "impact_score": 25,
+            "id": 14
+        },
+        {
+            "category": "Administrative Offices",
+            "tip": "Set ACs to 24\u00b0C instead of 18\u00b0C.",
+            "impact_score": 18,
+            "id": 77
+        },
+        {
+            "category": "WiFi Router Rooms",
+            "tip": "Optimize router placement to reduce energy consumption.",
+            "impact_score": 10,
+            "id": 16
+        },
+        {
+            "category": "Lift Areas",
+            "tip": "Use lifts only for higher floors and take the stairs when possible.",
+            "impact_score": 15,
+            "id": 98
+        },
+        {
+            "category": "Hostel Bathrooms",
+            "tip": "Limit shower heater usage to peak hours.",
+            "impact_score": 20,
+            "id": 33
+        },
+        {
+            "category": "Generator Rooms",
+            "tip": "Optimize fuel usage during power outages.",
+            "impact_score": 22,
+            "id": 19
+        },
+        {
+            "category": "Outdoor Lawns",
+            "tip": "Use solar-powered garden lights.",
+            "impact_score": 30,
+            "id": 85
+        },
+        {
+            "category": "Water Pumps",
+            "tip": "Use automatic pump scheduling to avoid wastage.",
+            "impact_score": 25,
+            "id": 84
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "EV Charging Stations",
+            "tip": "Encourage slow charging instead of rapid charging to reduce energy spikes.",
+            "impact_score": 22,
+            "id": 23
+        },
+        {
+            "category": "Corridors",
+            "tip": "Use daylight sensors for automatic corridor lighting.",
+            "impact_score": 25,
+            "id": 82
+        },
+        {
+            "category": "Exam Halls",
+            "tip": "Keep lights at 50% brightness when natural light is available.",
+            "impact_score": 20,
+            "id": 49
+        },
+        {
+            "category": "Water Usage",
+            "tip": "Turn off taps while brushing or washing hands.",
+            "impact_score": 15,
+            "id": 83
+        },
+        {
+            "category": "General",
+            "tip": "Unplug electronic devices when fully charged.",
+            "impact_score": 10,
+            "id": 27
+        },
+        {
+            "category": "General",
+            "tip": "Use energy-efficient LED bulbs.",
+            "impact_score": 20,
+            "id": 28
+        },
+        {
+            "category": "General",
+            "tip": "Switch off power strips when not in use.",
+            "impact_score": 12,
+            "id": 79
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Enable power-saving mode on lab computers.",
+            "impact_score": 12,
+            "id": 90
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Switch off ACs and fans when not in the room.",
+            "impact_score": 20,
+            "id": 92
+        },
+        {
+            "category": "Hostel Bathrooms",
+            "tip": "Limit shower heater usage to peak hours.",
+            "impact_score": 20,
+            "id": 33
+        },
+        {
+            "category": "Exam Halls",
+            "tip": "Keep lights at 50% brightness when natural light is available.",
+            "impact_score": 20,
+            "id": 49
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Switch off ACs and fans when not in the room.",
+            "impact_score": 20,
+            "id": 92
+        },
+        {
+            "category": "Water Pumps",
+            "tip": "Use automatic pump scheduling to avoid wastage.",
+            "impact_score": 25,
+            "id": 84
+        },
+        {
+            "category": "Exam Halls",
+            "tip": "Keep lights at 50% brightness when natural light is available.",
+            "impact_score": 20,
+            "id": 49
+        },
+        {
+            "category": "Exam Halls",
+            "tip": "Keep lights at 50% brightness when natural light is available.",
+            "impact_score": 20,
+            "id": 49
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Switch off ACs and fans when not in the room.",
+            "impact_score": 20,
+            "id": 92
+        },
+        {
+            "category": "Corridors",
+            "tip": "Use daylight sensors for automatic corridor lighting.",
+            "impact_score": 25,
+            "id": 82
+        },
+        {
+            "category": "Water Pumps",
+            "tip": "Use automatic pump scheduling to avoid wastage.",
+            "impact_score": 25,
+            "id": 84
+        },
+        {
+            "category": "Sports Complex",
+            "tip": "Use solar-powered water heaters in locker rooms.",
+            "impact_score": 25,
+            "id": 88
+        },
+        {
+            "category": "Sports Complex",
+            "tip": "Use solar-powered water heaters in locker rooms.",
+            "impact_score": 25,
+            "id": 88
+        },
+        {
+            "category": "Canteen",
+            "tip": "Turn off electric stoves when not in use.",
+            "impact_score": 18,
+            "id": 89
+        },
+        {
+            "category": "Outdoor Lawns",
+            "tip": "Use solar-powered garden lights.",
+            "impact_score": 30,
+            "id": 85
+        },
+        {
+            "category": "Sports Complex",
+            "tip": "Use solar-powered water heaters in locker rooms.",
+            "impact_score": 25,
+            "id": 88
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Enable power-saving mode on lab computers.",
+            "impact_score": 12,
+            "id": 90
+        },
+        {
+            "category": "Exam Halls",
+            "tip": "Keep lights at 50% brightness when natural light is available.",
+            "impact_score": 20,
+            "id": 49
+        },
+        {
+            "category": "Exam Halls",
+            "tip": "Keep lights at 50% brightness when natural light is available.",
+            "impact_score": 20,
+            "id": 49
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Classrooms",
+            "tip": "Turn off lights and fans when leaving.",
+            "impact_score": 15,
+            "id": 95
+        },
+        {
+            "category": "Water Usage",
+            "tip": "Turn off taps while brushing or washing hands.",
+            "impact_score": 15,
+            "id": 83
+        },
+        {
+            "category": "Outdoor Lawns",
+            "tip": "Use solar-powered garden lights.",
+            "impact_score": 30,
+            "id": 85
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Use natural ventilation instead of air conditioning.",
+            "impact_score": 15,
+            "id": 100
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Enable power-saving mode on lab computers.",
+            "impact_score": 12,
+            "id": 90
+        },
+        {
+            "category": "Auditoriums",
+            "tip": "Schedule events during daylight to minimize artificial lighting.",
+            "impact_score": 20,
+            "id": 72
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Switch off ACs and fans when not in the room.",
+            "impact_score": 20,
+            "id": 92
+        },
+        {
+            "category": "Classrooms",
+            "tip": "Turn off lights and fans when leaving.",
+            "impact_score": 15,
+            "id": 95
+        },
+        {
+            "category": "Water Pumps",
+            "tip": "Use automatic pump scheduling to avoid wastage.",
+            "impact_score": 25,
+            "id": 84
+        },
+        {
+            "category": "Water Pumps",
+            "tip": "Use automatic pump scheduling to avoid wastage.",
+            "impact_score": 25,
+            "id": 84
+        },
+        {
+            "category": "Parking Lot",
+            "tip": "Use motion-sensor LED lights at night.",
+            "impact_score": 22,
+            "id": 63
+        },
+        {
+            "category": "Classrooms",
+            "tip": "Turn off lights and fans when leaving.",
+            "impact_score": 15,
+            "id": 95
+        },
+        {
+            "category": "Parking Lot",
+            "tip": "Use motion-sensor LED lights at night.",
+            "impact_score": 22,
+            "id": 63
+        },
+        {
+            "category": "Canteen",
+            "tip": "Reduce single-use plastic by carrying reusable bottles.",
+            "impact_score": 12,
+            "id": 87
+        },
+        {
+            "category": "General",
+            "tip": "Switch off power strips when not in use.",
+            "impact_score": 12,
+            "id": 79
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Use natural ventilation instead of air conditioning.",
+            "impact_score": 15,
+            "id": 100
+        },
+        {
+            "category": "Lift Areas",
+            "tip": "Use lifts only for higher floors and take the stairs when possible.",
+            "impact_score": 15,
+            "id": 98
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Water Usage",
+            "tip": "Turn off taps while brushing or washing hands.",
+            "impact_score": 15,
+            "id": 83
+        },
+        {
+            "category": "Canteen",
+            "tip": "Reduce single-use plastic by carrying reusable bottles.",
+            "impact_score": 12,
+            "id": 87
+        },
+        {
+            "category": "Auditoriums",
+            "tip": "Schedule events during daylight to minimize artificial lighting.",
+            "impact_score": 20,
+            "id": 72
+        },
+        {
+            "category": "Canteen",
+            "tip": "Turn off electric stoves when not in use.",
+            "impact_score": 18,
+            "id": 89
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Corridors",
+            "tip": "Use daylight sensors for automatic corridor lighting.",
+            "impact_score": 25,
+            "id": 82
+        },
+        {
+            "category": "Canteen",
+            "tip": "Turn off electric stoves when not in use.",
+            "impact_score": 18,
+            "id": 89
+        },
+        {
+            "category": "Administrative Offices",
+            "tip": "Set ACs to 24\u00b0C instead of 18\u00b0C.",
+            "impact_score": 18,
+            "id": 77
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "General",
+            "tip": "Switch off power strips when not in use.",
+            "impact_score": 12,
+            "id": 79
+        },
+        {
+            "category": "Corridors",
+            "tip": "Use daylight sensors for automatic corridor lighting.",
+            "impact_score": 25,
+            "id": 82
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Use natural ventilation instead of air conditioning.",
+            "impact_score": 15,
+            "id": 100
+        },
+        {
+            "category": "Corridors",
+            "tip": "Use daylight sensors for automatic corridor lighting.",
+            "impact_score": 25,
+            "id": 82
+        },
+        {
+            "category": "Water Usage",
+            "tip": "Turn off taps while brushing or washing hands.",
+            "impact_score": 15,
+            "id": 83
+        },
+        {
+            "category": "Water Pumps",
+            "tip": "Use automatic pump scheduling to avoid wastage.",
+            "impact_score": 25,
+            "id": 84
+        },
+        {
+            "category": "Outdoor Lawns",
+            "tip": "Use solar-powered garden lights.",
+            "impact_score": 30,
+            "id": 85
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Enable power-saving mode on lab computers.",
+            "impact_score": 12,
+            "id": 90
+        },
+        {
+            "category": "Canteen",
+            "tip": "Reduce single-use plastic by carrying reusable bottles.",
+            "impact_score": 12,
+            "id": 87
+        },
+        {
+            "category": "Sports Complex",
+            "tip": "Use solar-powered water heaters in locker rooms.",
+            "impact_score": 25,
+            "id": 88
+        },
+        {
+            "category": "Canteen",
+            "tip": "Turn off electric stoves when not in use.",
+            "impact_score": 18,
+            "id": 89
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Enable power-saving mode on lab computers.",
+            "impact_score": 12,
+            "id": 90
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Switch off ACs and fans when not in the room.",
+            "impact_score": 20,
+            "id": 92
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Switch off ACs and fans when not in the room.",
+            "impact_score": 20,
+            "id": 92
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Classrooms",
+            "tip": "Turn off lights and fans when leaving.",
+            "impact_score": 15,
+            "id": 95
+        },
+        {
+            "category": "Library",
+            "tip": "Avoid overcharging laptops and phones.",
+            "impact_score": 10,
+            "id": 96
+        },
+        {
+            "category": "Lab Refrigerators",
+            "tip": "Defrost regularly for better efficiency.",
+            "impact_score": 18,
+            "id": 97
+        },
+        {
+            "category": "Lift Areas",
+            "tip": "Use lifts only for higher floors and take the stairs when possible.",
+            "impact_score": 15,
+            "id": 98
+        },
+        {
+            "category": "Computer Labs",
+            "tip": "Shut down computers after use instead of leaving them on standby.",
+            "impact_score": 18,
+            "id": 99
+        },
+        {
+            "category": "Hostel Rooms",
+            "tip": "Use natural ventilation instead of air conditioning.",
+            "impact_score": 15,
+            "id": 100
+        }
+    ],
+    "reward_information": [
+        {
+            "id": 95,
+            "action": "Followed: Turn off lights and fans when leaving.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 2,
+            "action": "Followed: Use projectors only when necessary.",
+            "points": 50,
+            "reward": "Exclusive student reward for 50 points"
+        },
+        {
+            "id": 99,
+            "action": "Followed: Shut down computers after use instead of leaving them on standby.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 90,
+            "action": "Followed: Enable power-saving mode on lab computers.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 92,
+            "action": "Followed: Switch off ACs and fans when not in the room.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 100,
+            "action": "Followed: Use natural ventilation instead of air conditioning.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 7,
+            "action": "Followed: Use reading lamps instead of full-room lighting.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 96,
+            "action": "Followed: Avoid overcharging laptops and phones.",
+            "points": 50,
+            "reward": "Exclusive student reward for 50 points"
+        },
+        {
+            "id": 89,
+            "action": "Followed: Turn off electric stoves when not in use.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 87,
+            "action": "Followed: Reduce single-use plastic by carrying reusable bottles.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 88,
+            "action": "Followed: Use solar-powered water heaters in locker rooms.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 63,
+            "action": "Followed: Use motion-sensor LED lights at night.",
+            "points": 110,
+            "reward": "Exclusive student reward for 110 points"
+        },
+        {
+            "id": 72,
+            "action": "Followed: Schedule events during daylight to minimize artificial lighting.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 14,
+            "action": "Followed: Turn off unused lab equipment.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 77,
+            "action": "Followed: Set ACs to 24\u00b0C instead of 18\u00b0C.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 16,
+            "action": "Followed: Optimize router placement to reduce energy consumption.",
+            "points": 50,
+            "reward": "Exclusive student reward for 50 points"
+        },
+        {
+            "id": 98,
+            "action": "Followed: Use lifts only for higher floors and take the stairs when possible.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 33,
+            "action": "Followed: Limit shower heater usage to peak hours.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 19,
+            "action": "Followed: Optimize fuel usage during power outages.",
+            "points": 110,
+            "reward": "Exclusive student reward for 110 points"
+        },
+        {
+            "id": 85,
+            "action": "Followed: Use solar-powered garden lights.",
+            "points": 150,
+            "reward": "Exclusive student reward for 150 points"
+        },
+        {
+            "id": 84,
+            "action": "Followed: Use automatic pump scheduling to avoid wastage.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 23,
+            "action": "Followed: Encourage slow charging instead of rapid charging to reduce energy spikes.",
+            "points": 110,
+            "reward": "Exclusive student reward for 110 points"
+        },
+        {
+            "id": 82,
+            "action": "Followed: Use daylight sensors for automatic corridor lighting.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 49,
+            "action": "Followed: Keep lights at 50% brightness when natural light is available.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 83,
+            "action": "Followed: Turn off taps while brushing or washing hands.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 27,
+            "action": "Followed: Unplug electronic devices when fully charged.",
+            "points": 50,
+            "reward": "Exclusive student reward for 50 points"
+        },
+        {
+            "id": 28,
+            "action": "Followed: Use energy-efficient LED bulbs.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 79,
+            "action": "Followed: Switch off power strips when not in use.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 90,
+            "action": "Followed: Enable power-saving mode on lab computers.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 92,
+            "action": "Followed: Switch off ACs and fans when not in the room.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 33,
+            "action": "Followed: Limit shower heater usage to peak hours.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 49,
+            "action": "Followed: Keep lights at 50% brightness when natural light is available.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 92,
+            "action": "Followed: Switch off ACs and fans when not in the room.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 84,
+            "action": "Followed: Use automatic pump scheduling to avoid wastage.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 49,
+            "action": "Followed: Keep lights at 50% brightness when natural light is available.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 49,
+            "action": "Followed: Keep lights at 50% brightness when natural light is available.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 92,
+            "action": "Followed: Switch off ACs and fans when not in the room.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 82,
+            "action": "Followed: Use daylight sensors for automatic corridor lighting.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 84,
+            "action": "Followed: Use automatic pump scheduling to avoid wastage.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 88,
+            "action": "Followed: Use solar-powered water heaters in locker rooms.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 88,
+            "action": "Followed: Use solar-powered water heaters in locker rooms.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 89,
+            "action": "Followed: Turn off electric stoves when not in use.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 85,
+            "action": "Followed: Use solar-powered garden lights.",
+            "points": 150,
+            "reward": "Exclusive student reward for 150 points"
+        },
+        {
+            "id": 88,
+            "action": "Followed: Use solar-powered water heaters in locker rooms.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 90,
+            "action": "Followed: Enable power-saving mode on lab computers.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 49,
+            "action": "Followed: Keep lights at 50% brightness when natural light is available.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 49,
+            "action": "Followed: Keep lights at 50% brightness when natural light is available.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 95,
+            "action": "Followed: Turn off lights and fans when leaving.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 83,
+            "action": "Followed: Turn off taps while brushing or washing hands.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 85,
+            "action": "Followed: Use solar-powered garden lights.",
+            "points": 150,
+            "reward": "Exclusive student reward for 150 points"
+        },
+        {
+            "id": 100,
+            "action": "Followed: Use natural ventilation instead of air conditioning.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 90,
+            "action": "Followed: Enable power-saving mode on lab computers.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 72,
+            "action": "Followed: Schedule events during daylight to minimize artificial lighting.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 92,
+            "action": "Followed: Switch off ACs and fans when not in the room.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 95,
+            "action": "Followed: Turn off lights and fans when leaving.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 84,
+            "action": "Followed: Use automatic pump scheduling to avoid wastage.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 84,
+            "action": "Followed: Use automatic pump scheduling to avoid wastage.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 63,
+            "action": "Followed: Use motion-sensor LED lights at night.",
+            "points": 110,
+            "reward": "Exclusive student reward for 110 points"
+        },
+        {
+            "id": 95,
+            "action": "Followed: Turn off lights and fans when leaving.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 63,
+            "action": "Followed: Use motion-sensor LED lights at night.",
+            "points": 110,
+            "reward": "Exclusive student reward for 110 points"
+        },
+        {
+            "id": 87,
+            "action": "Followed: Reduce single-use plastic by carrying reusable bottles.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 79,
+            "action": "Followed: Switch off power strips when not in use.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 100,
+            "action": "Followed: Use natural ventilation instead of air conditioning.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 98,
+            "action": "Followed: Use lifts only for higher floors and take the stairs when possible.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 83,
+            "action": "Followed: Turn off taps while brushing or washing hands.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 87,
+            "action": "Followed: Reduce single-use plastic by carrying reusable bottles.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 72,
+            "action": "Followed: Schedule events during daylight to minimize artificial lighting.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 89,
+            "action": "Followed: Turn off electric stoves when not in use.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 82,
+            "action": "Followed: Use daylight sensors for automatic corridor lighting.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 89,
+            "action": "Followed: Turn off electric stoves when not in use.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 77,
+            "action": "Followed: Set ACs to 24\u00b0C instead of 18\u00b0C.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 79,
+            "action": "Followed: Switch off power strips when not in use.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 82,
+            "action": "Followed: Use daylight sensors for automatic corridor lighting.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 100,
+            "action": "Followed: Use natural ventilation instead of air conditioning.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 82,
+            "action": "Followed: Use daylight sensors for automatic corridor lighting.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 83,
+            "action": "Followed: Turn off taps while brushing or washing hands.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 84,
+            "action": "Followed: Use automatic pump scheduling to avoid wastage.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 85,
+            "action": "Followed: Use solar-powered garden lights.",
+            "points": 150,
+            "reward": "Exclusive student reward for 150 points"
+        },
+        {
+            "id": 90,
+            "action": "Followed: Enable power-saving mode on lab computers.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 87,
+            "action": "Followed: Reduce single-use plastic by carrying reusable bottles.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 88,
+            "action": "Followed: Use solar-powered water heaters in locker rooms.",
+            "points": 125,
+            "reward": "Exclusive student reward for 125 points"
+        },
+        {
+            "id": 89,
+            "action": "Followed: Turn off electric stoves when not in use.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 90,
+            "action": "Followed: Enable power-saving mode on lab computers.",
+            "points": 60,
+            "reward": "Exclusive student reward for 60 points"
+        },
+        {
+            "id": 92,
+            "action": "Followed: Switch off ACs and fans when not in the room.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 92,
+            "action": "Followed: Switch off ACs and fans when not in the room.",
+            "points": 100,
+            "reward": "Exclusive student reward for 100 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 95,
+            "action": "Followed: Turn off lights and fans when leaving.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 96,
+            "action": "Followed: Avoid overcharging laptops and phones.",
+            "points": 50,
+            "reward": "Exclusive student reward for 50 points"
+        },
+        {
+            "id": 97,
+            "action": "Followed: Defrost regularly for better efficiency.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 98,
+            "action": "Followed: Use lifts only for higher floors and take the stairs when possible.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        },
+        {
+            "id": 99,
+            "action": "Followed: Shut down computers after use instead of leaving them on standby.",
+            "points": 90,
+            "reward": "Exclusive student reward for 90 points"
+        },
+        {
+            "id": 100,
+            "action": "Followed: Use natural ventilation instead of air conditioning.",
+            "points": 75,
+            "reward": "Exclusive student reward for 75 points"
+        }
+    ]
+}
