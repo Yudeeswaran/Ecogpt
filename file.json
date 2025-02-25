@@ -1,0 +1,207 @@
+{
+    "energy_saving_tips": [
+      {
+        "location": "Classrooms",
+        "tip": "Turn off projectors, fans, and AC after class.",
+        "impact": "Saves ~2 kWh per hour."
+      },
+      {
+        "location": "Computer Labs",
+        "tip": "Enable power-saving mode on lab computers.",
+        "impact": "Reduces idle power usage by 30%."
+      },
+      {
+        "location": "Hostel Rooms",
+        "tip": "Use natural ventilation instead of fans when possible.",
+        "impact": "Lowers electricity consumption by 15%."
+      },
+      {
+        "location": "Library",
+        "tip": "Use reading lamps instead of full-room lighting.",
+        "impact": "Cuts down energy use by ~25%."
+      },
+      {
+        "location": "Canteen",
+        "tip": "Switch off electric stoves and heaters when not needed.",
+        "impact": "Prevents ~3 kWh wastage per day."
+      },
+      {
+        "location": "Sports Complex",
+        "tip": "Switch to solar-powered water heaters.",
+        "impact": "Reduces electricity consumption by ~60%."
+      },
+      {
+        "location": "Parking Lot",
+        "tip": "Use motion-sensor LED lights at night.",
+        "impact": "Saves ~5 kWh per day."
+      },
+      {
+        "location": "Auditoriums",
+        "tip": "Schedule events in daylight to minimize artificial lighting.",
+        "impact": "Reduces power usage by 8-10 kWh per event."
+      },
+      {
+        "location": "Labs",
+        "tip": "Turn off unused electronic lab equipment.",
+        "impact": "Saves ~20% on monthly energy bills."
+      },
+      {
+        "location": "Administrative Offices",
+        "tip": "Keep air conditioners at 24°C instead of 18°C.",
+        "impact": "Cuts energy consumption by 20%."
+      },
+      {
+        "location": "WiFi Router Rooms",
+        "tip": "Optimize router placement to reduce the need for repeaters.",
+        "impact": "Saves ~0.8 kWh per router per day."
+      },
+      {
+        "location": "Lift Areas",
+        "tip": "Use lifts only for higher floors and encourage staircase usage.",
+        "impact": "Reduces overall electricity consumption by 5%."
+      },
+      {
+        "location": "Hostel Bathrooms",
+        "tip": "Limit shower heater usage to peak hours.",
+        "impact": "Saves ~4 kWh per day per hostel block."
+      },
+      {
+        "location": "Generator Rooms",
+        "tip": "Optimize fuel usage during power outages.",
+        "impact": "Reduces diesel consumption by 10%."
+      },
+      {
+        "location": "Outdoor Lawns",
+        "tip": "Switch to solar-powered garden lights.",
+        "impact": "Eliminates 100% energy cost for lighting."
+      },
+      {
+        "location": "Water Pumps",
+        "tip": "Use automatic pump scheduling to avoid unnecessary operation.",
+        "impact": "Saves ~10% on water pump energy usage."
+      },
+      {
+        "location": "Lab Refrigerators",
+        "tip": "Defrost regularly and keep doors closed tightly.",
+        "impact": "Improves energy efficiency by 20%."
+      },
+      {
+        "location": "EV Charging Stations",
+        "tip": "Encourage slow charging instead of rapid charging to reduce energy spikes.",
+        "impact": "Enhances battery lifespan and reduces peak demand."
+      },
+      {
+        "location": "Corridors",
+        "tip": "Use daylight sensors to automatically adjust corridor lighting.",
+        "impact": "Lowers electricity use by ~30%."
+      },
+      {
+        "location": "Exam Halls",
+        "tip": "Keep lights at 50% brightness when natural light is available.",
+        "impact": "Saves ~2 kWh per session."
+      }
+    ],
+    "reward_information": [
+      {
+        "action": "Turning off AC and projectors after class",
+        "points": 50,
+        "reward": "Free canteen meal"
+      },
+      {
+        "action": "Saving 20 kWh in hostel per month",
+        "points": 100,
+        "reward": "Library late fee waiver"
+      },
+      {
+        "action": "Using stairs instead of the elevator 50 times",
+        "points": 150,
+        "reward": "Bonus WiFi data (10GB)"
+      },
+      {
+        "action": "Reporting electrical faults",
+        "points": 200,
+        "reward": "REC merchandise discount"
+      },
+      {
+        "action": "Switching to cycle commute for a week",
+        "points": 250,
+        "reward": "Discounted bookstore coupons"
+      },
+      {
+        "action": "Leading an energy-saving campaign",
+        "points": 300,
+        "reward": "Free gym membership (1 month)"
+      },
+      {
+        "action": "Using only solar-charged devices for a week",
+        "points": 350,
+        "reward": "Free cultural fest entry"
+      },
+      {
+        "action": "Adopting a no-lift challenge for a month",
+        "points": 400,
+        "reward": "Transport pass discount"
+      },
+      {
+        "action": "Attending 3 sustainability workshops",
+        "points": 450,
+        "reward": "Exclusive REC hoodie"
+      },
+      {
+        "action": "Proposing a new energy-efficient project",
+        "points": 500,
+        "reward": "VIP seminar invite"
+      },
+      {
+        "action": "Saving 100 kWh in a semester",
+        "points": 600,
+        "reward": "One semester hostel fee discount"
+      },
+      {
+        "action": "Creating an energy-saving app prototype",
+        "points": 700,
+        "reward": "REC tech fest special pass"
+      },
+      {
+        "action": "Being the highest energy saver in the hostel",
+        "points": 800,
+        "reward": "Personalized study space in the library"
+      },
+      {
+        "action": "Recording a campus-wide energy reduction of 500 kWh",
+        "points": 900,
+        "reward": "Recognition from REC administration"
+      },
+      {
+        "action": "Winning the energy-saving competition",
+        "points": 1000,
+        "reward": "Cash prize + trophy"
+      },
+      {
+        "action": "Installing solar panels on hostel rooftop",
+        "points": 1200,
+        "reward": "Lifetime REC Alumni Membership"
+      },
+      {
+        "action": "Saving 1 MWh collectively with a student team",
+        "points": 1500,
+        "reward": "Full semester tuition waiver"
+      },
+      {
+        "action": "Publishing a research paper on energy efficiency at REC",
+        "points": 1800,
+        "reward": "Grant for higher studies in sustainability"
+      },
+      {
+        "action": "Developing an AI-based energy tracking system",
+        "points": 2000,
+        "reward": "Sponsored tech internship"
+      },
+      {
+        "action": "Winning the national green campus challenge",
+        "points": 2500,
+        "reward": "Full-year scholarship"
+      }
+    ]
+  }
+  

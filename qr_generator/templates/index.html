@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <script>
+        function generateQR() {
+            let user_id = document.getElementById("user_id").value;
+            fetch("/generate_qr", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ user_id: user_id })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("qr_image").src = data.qr_url;
+                document.getElementById("qr_image").style.display = "block";
+            });
+        }
+    </script>
+</head>
+<body>
+    <h2>Generate QR Code</h2>
+    <input type="text" id="user_id" placeholder="Enter User ID">
+    <button onclick="generateQR()">Generate QR</button>
+    <br>
+    <img id="qr_image" style="display:none; width:200px; height:200px;">
+</body>
+</html>
